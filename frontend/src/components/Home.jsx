@@ -9,6 +9,7 @@ const Home = () => {
       <Hero />
       <Members />
       <Qualities />
+      <h1>volunteer</h1>
     </div>
   );
 };
